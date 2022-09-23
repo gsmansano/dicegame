@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #182747;
+}
+
+h1 {
+  font-size: 4rem;
+  padding: 50px 50px 10px 50px;
+  color: #647E68;
+}
+
+h2 {
+  font-size: 3rem;
+  padding: 20px;
+  color: #647E68;
+}
+
+.txt-title {
+  font-size: 1rem;
+  color: #D8D8D8;
+}
+
+.txt-main {
+  font-family: cursive;
+  font-size: 1.5rem;
+  color: #D8D8D8;
+}
+
+.dices-block {
+padding: 0 15% 0 15%;
+}
